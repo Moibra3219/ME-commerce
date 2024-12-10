@@ -38,7 +38,7 @@ const Footer = () => {
 						<article className="col-12 col-lg-6 text-center">
 							<Link to="/" className="logo text-decoration-none text-dark">
 								<h3 className="fs-3 mb-0">
-									Algohary <span className="fw-medium c-pink">Shop</span>
+									ME-Commerce <span className="fw-medium c-pink">Shop</span>
 								</h3>
 							</Link>
 							<p className="mt-3">
@@ -85,12 +85,12 @@ const Footer = () => {
 										href="mailto:ahmedmaher.dev1@gmail.com"
 										title="get in touch"
 									>
-										ahmedmaher.dev1@gmail.com
+										
 									</a>
 								</li>
 								<li>
 									<a
-										href="https://www.linkedin.com/in/ahmed-maher-algohary"
+										href="https://www.linkedin.com"
 										target="_blank"
 										title="Go To LinkedIn"
 										className="text-decoration-none c-gray"
@@ -107,14 +107,14 @@ const Footer = () => {
 				<div className="copyrights border-t-gray mt-5 pt-4 col-12 text-center c-d-gray">
 					Copyright @{currentYear}
 					<a
-						href="https://www.linkedin.com/in/ahmed-maher-algohary"
+						href="https://www.linkedin.com"
 						target="_blank"
 						title="Go To LinkedIn"
 						className="text-decoration-none c-black p-2 fw-bold"
 						data-bs-toggle="tooltip"
 						data-bs-placement="top"
 					>
-						Ahmed Maher
+						
 					</a>
 					- All Rights Reserved.
 				</div>

@@ -34,9 +34,9 @@ const Contact = () => {
 									<span>Suite 350, Washington, USA</span>
 								</address>
 								<div className="telephone">
-									Tel: (415) 555-0132
+									Tel: (415) 111-0132
 									<br />
-									Email: admin@algohary-shop.com
+									Email: 
 								</div>
 							</div>
 							{/* Careers Information */}
